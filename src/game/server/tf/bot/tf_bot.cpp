@@ -196,7 +196,7 @@ const char *GetRandomBotName( void )
 		"RageQuit",
 		"Screamin' Eagles",
 
-		"Ze Übermensch",
+		"Ze Ubermensch",
 		"Maggot",
 		"CRITRAWKETS",
 		"Herr Doktor",
